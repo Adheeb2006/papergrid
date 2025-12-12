@@ -1,0 +1,290 @@
+.header{
+    width: 100%;
+    height: 43px;
+    background-color: black
+}
+body{
+    margin: 0;
+    margin-top: 0;
+}
+.shipp{
+       color: white;
+    background-color: black;
+    text-align: center;
+    margin-top: 0px;
+    letter-spacing: 0.1rem;
+    padding: 10px;
+    font-size: calc(var(--font-heading-scale) * 1.3rem);
+}
+.shipp:hover{
+    background-color:rgb(37, 35, 35) ;
+    cursor: pointer;
+}
+.nav{
+    width: 100%;
+    height: 85px;
+    background-color: black;
+}
+.line{
+    width: 100%;
+    height: .7px;
+    background-color: rgb(59, 57, 57);
+}
+.nav-link{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 28px;
+    margin: 64px;
+}
+.name{
+    width: 142px;
+    height: 25.8824px;
+    margin-left: -7px;
+    margin-top: 29px;
+}
+.home{
+    color: white;
+    font-weight: 100;
+    font-size: 20px;
+    margin-left: -42px;
+    margin-top: 33px;
+    position: absolute;
+     font-size: calc(var(--font-heading-scale) * 1.3rem);
+    
+}
+.home:hover{
+    cursor: pointer;
+}
+.about{
+    color: white;
+    text-decoration: none;
+    font-weight: 100;
+    font-size: 20px;
+    margin-left: 28px;
+    margin-top: 33px;
+    position: absolute;
+     font-size: calc(var(--font-heading-scale) * 1.3rem);
+    
+}
+.about:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.cata{
+    color: white;
+    text-decoration: none;
+    font-weight: 100;
+    font-size: 20px;
+    margin-left: 122px;
+    margin-top: 33px;
+    position: absolute;
+     font-size: calc(var(--font-heading-scale) * 1.3rem);
+    
+}
+.cata:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.track{
+    color: white;
+    text-decoration: none;
+    font-weight: 100;
+    font-size: 20px;
+    margin-left: 222px;
+    margin-top: 33px;
+    position: absolute;
+     font-size: calc(var(--font-heading-scale) * 1.3rem);
+    
+}
+.track:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.profile{
+    width: 34px;
+    height: 29px;
+    margin-top:-35px;
+    margin-right: 113px;
+    float: right;
+}
+.profile:hover{
+    cursor: pointer;
+}
+.bag{
+    width: 30px;
+    height: 29px;
+    margin-top: -36px;
+    margin-right: 60px;
+    float: right;
+}
+.bag:hover{
+    cursor: pointer;
+}
+
+.imag1{
+    display: flex;
+    width: 344px;
+    height: 344px;
+    gap: 50px;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 2px;
+}
+.image1:hover{
+    cursor: pointer;
+}
+.image2:hover{
+    cursor: pointer;
+}
+.image3:hover{
+    cursor: pointer;
+}
+.imag2{
+     display: flex;
+    width: 344px;
+    height: 344px;
+    gap: 50px;
+    padding-left: 50px;
+    padding-top: 7px;
+}
+.image4:hover{
+    cursor: pointer;
+}
+.image5:hover{
+    cursor: pointer;
+}
+.image6:hover{
+    cursor: pointer;
+}
+.imag3{
+     display: flex;
+    width: 344px;
+    height: 344px;
+    gap: 50px;
+    padding-left: 50px;
+    padding-top: 7px;
+}
+.image7:hover{
+    cursor: pointer;
+}
+.image8:hover{
+    cursor: pointer;
+}
+.image9:hover{
+    cursor: pointer;
+}
+.photo{
+    width: 376px;
+    height: 503px;
+    margin-top: 50px;
+    margin-left: 50px;
+     margin-bottom: 65px;
+     display: flex;
+}
+.text1{
+    display: flex;
+    padding-left: 47px;
+    font-size: 25px;
+    margin-top: -137px;
+}
+.peru{
+    color: rgb(86, 83, 83); 
+    font-size: 20px;
+}
+.button{
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: 1px solid rgb(62, 59, 59);
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+.button:hover{
+    cursor: pointer;
+}
+.flooter{
+    width: 100%;
+    height: 340px;
+    background-color: black;
+}
+.flooter-bottam{
+    width: 100%;
+    height: 120px;
+    background-color:black;
+    border-top: 1px solid rgb(49, 46, 46);
+}
+.flooter-link{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-weight: lighter;
+    font-size: larger;
+
+}
+.flooter-num1{
+    color: rgb(205, 203, 203);
+    padding-left: 45%;
+    font-weight: lighter;
+    font-size: larger;
+    
+}
+.flooter-num1:hover{
+    cursor: pointer;
+    color: white;
+}
+.flooter-num2{
+    color: rgb(205, 203, 203);
+    padding-left: 45%;
+    font-weight: lighter;
+    font-size: larger;
+
+}
+.flooter-num2:hover{
+    cursor: pointer;
+    color: white;
+}
+.flooter-mail{
+    color: rgb(205, 203, 203);
+    padding-left: 43%;
+    font-weight: lighter;
+    font-size: larger;
+
+}
+.flooter-mail:hover{
+    cursor: pointer;
+    color: white;
+}
+.insta{
+    width: 30px;
+    height: 30px;
+    margin-left: 50%;
+}
+.insta:hover{
+    cursor: pointer;
+}
+.bottam-2025{
+    color: rgb(205, 203, 203);
+    padding-left: 5%;
+    font-size: 12px;
+    padding-top: 2%;
+}
+.power{
+    color: rgb(205, 203, 203);
+    
+}
+.refund{
+    color: rgb(205, 203, 203);
+    
+}
+.refund{
+    text-decoration: none;
+}
+
+.refund:hover{
+    color: white;
+    cursor: pointer;
+    text-decoration: underline;
+}
